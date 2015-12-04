@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ALittleSongInMyHead</string>
+	<string name="displayable_app_name">A Little Song In My Head</string>
+	<string name="rate">Rate the app</string>
+	<string name="play">Play extracts</string>
+	<string name="pause">Pause extracts</string>
+</resources>
